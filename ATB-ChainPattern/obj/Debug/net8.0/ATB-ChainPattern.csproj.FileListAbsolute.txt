@@ -1,0 +1,14 @@
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\bin\Debug\net8.0\ATB-ChainPattern.exe
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\bin\Debug\net8.0\ATB-ChainPattern.deps.json
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\bin\Debug\net8.0\ATB-ChainPattern.runtimeconfig.json
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\bin\Debug\net8.0\ATB-ChainPattern.dll
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\bin\Debug\net8.0\ATB-ChainPattern.pdb
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.AssemblyInfo.cs
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.dll
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\refint\ATB-ChainPattern.dll
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.pdb
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ATB-ChainPattern.genruntimeconfig.cache
+C:\Users\antho\Desktop\AutoTradingBot\ATB-ChainPattern\obj\Debug\net8.0\ref\ATB-ChainPattern.dll
