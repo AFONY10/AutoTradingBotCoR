@@ -1,6 +1,3 @@
-# NOTE: This is still a work in process in terms of expanding the functionality of the product.
-The application do work if you intend to test the Chain-of-responsibility design pattern only. 
-
 # AutoTradingBot 
 
 AutoTradingBot is a simple command-line application built to analyze various financial products using the Chain of Responsibility design pattern.
@@ -45,3 +42,5 @@ The application allows users to input a product name and type and then analyzes 
 
 - [Anthony Nguyen](github.com/AFONY10) - Project Lead
 
+## NOTE: This is still a work in process in terms of expanding the functionality of the product.
+The application do work if you intend to test the Chain-of-responsibility design pattern only. 
